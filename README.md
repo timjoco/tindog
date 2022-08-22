@@ -1,4 +1,4 @@
-TinDog Starting Files
+## Welcome to tindog
 This site was built using [GitHub Pages](https://timjoco.github.io/tindog/)
 
 ## Tools Used
